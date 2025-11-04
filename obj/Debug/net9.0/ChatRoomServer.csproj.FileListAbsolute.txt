@@ -25,3 +25,4 @@ C:\Users\LENOVO\Desktop\test\Backend\ChatRoomServer\obj\Debug\net9.0\refint\Chat
 C:\Users\LENOVO\Desktop\test\Backend\ChatRoomServer\obj\Debug\net9.0\ChatRoomServer.pdb
 C:\Users\LENOVO\Desktop\test\Backend\ChatRoomServer\obj\Debug\net9.0\ChatRoomServer.genruntimeconfig.cache
 C:\Users\LENOVO\Desktop\test\Backend\ChatRoomServer\obj\Debug\net9.0\ref\ChatRoomServer.dll
+C:\Users\LENOVO\Desktop\test\Backend\ChatRoomServer\obj\Debug\net9.0\ChatRoomServer.sourcelink.json

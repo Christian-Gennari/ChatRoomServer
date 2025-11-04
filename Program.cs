@@ -2,13 +2,6 @@ using ChatRoomServer.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Configure to listen on Railway's port
-builder.WebHost.ConfigureKestrel(options =>
-{
-  var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
-  options.ListenAnyIP(int.Parse(port));
-});
-
 var app = builder.Build();
 
 int nextId = 0;
