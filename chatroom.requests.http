@@ -1,0 +1,10 @@
+POST http://localhost:5009/messages
+Content-Type: application/json
+
+{
+  "user": "Christian",
+  "text": "Hello world"
+}
+
+###
+GET http://localhost:5009/messages?after=0
